@@ -1,4 +1,4 @@
-# SkidOsint
+# Skidhttpslol
 meko — 
 a small windows batch toolkit i built. 
 does http flood testing, email breach lookups, and password breach checks. 
